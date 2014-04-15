@@ -1,0 +1,11 @@
+<%- include header %>
+<form method="post" class="form-horizontal" role="form">
+	<div class="form-group">
+		<label for="seiyuu" class="control-label">请输入待添加的声优信息列表，用换行分割：<br/>具体格式：名称,VADB ID,是否为主要名义</label>
+		<div>
+			<textarea name="seiyuu" id="seiyuu" class="form-control" placeholder="声优信息列表"></textarea>
+		</div>
+	</div>
+	<button type="submit" class="btn btn-primary">提交</button>
+</form>
+<%- include footer %>

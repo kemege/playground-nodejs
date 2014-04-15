@@ -1,0 +1,1282 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"requ",
+				"require"
+			],
+			[
+				"res",
+				"results"
+			],
+			[
+				"select",
+				"selectize"
+			],
+			[
+				"com",
+				"companyList"
+			],
+			[
+				"Game",
+				"GameSchema"
+			],
+			[
+				"Ch",
+				"CharacterSchema"
+			],
+			[
+				"blob",
+				"blobData"
+			],
+			[
+				"image",
+				"imageData"
+			],
+			[
+				"seiyuu",
+				"seiyuuData"
+			],
+			[
+				"compa",
+				"companyName"
+			],
+			[
+				"Com",
+				"CompanySchema"
+			],
+			[
+				"comp",
+				"companyString"
+			],
+			[
+				"criteria",
+				"criteria_table"
+			],
+			[
+				"criteri",
+				"criteria_string"
+			],
+			[
+				"criter",
+				"criteria_table"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"fetc",
+				"fetchDouban"
+			],
+			[
+				"parse",
+				"parseInt"
+			],
+			[
+				"sear",
+				"searchDouban"
+			],
+			[
+				"Dou",
+				"doubanID"
+			],
+			[
+				"fet",
+				"fetchDouban"
+			],
+			[
+				"die",
+				"directorTag"
+			],
+			[
+				"dial",
+				"dialogBody"
+			],
+			[
+				"job",
+				"jobTime"
+			],
+			[
+				"get",
+				"getCurrentJob"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"info",
+				"info_hash"
+			],
+			[
+				"dle",
+				"deleted"
+			],
+			[
+				"data",
+				"dataArray"
+			],
+			[
+				"imdb",
+				"imdbID"
+			],
+			[
+				"IMDB",
+				"n◎IMDB链接"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"douban",
+				"doubanID"
+			],
+			[
+				"pro",
+				"promptDouban"
+			],
+			[
+				"de",
+				"description"
+			],
+			[
+				"button",
+				"buttonGo"
+			],
+			[
+				"def",
+				"defineVariable"
+			],
+			[
+				"var",
+				"variable"
+			],
+			[
+				"scr",
+				"script2"
+			],
+			[
+				"temp",
+				"templateMessage"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"id_mem",
+				"id_member_to"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"new",
+				"newShouts"
+			],
+			[
+				"TradeOut",
+				"TradeOutIncome"
+			],
+			[
+				"Buy",
+				"BuyItems"
+			],
+			[
+				"But",
+				"BuyCosts"
+			],
+			[
+				"tra",
+				"tradingTax"
+			],
+			[
+				"total",
+				"total_items"
+			],
+			[
+				"show",
+				"show_next"
+			],
+			[
+				"mt",
+				"mt_rand"
+			],
+			[
+				"nav_",
+				"nav_next_page"
+			],
+			[
+				"la",
+				"lastShowUp"
+			],
+			[
+				"date",
+				"dateToday"
+			],
+			[
+				"db_fetch",
+				"db_fetch_row"
+			],
+			[
+				"acti",
+				"actionArray"
+			],
+			[
+				"Image",
+				"ImageEnhance"
+			],
+			[
+				"polyg",
+				"polygons"
+			],
+			[
+				"gift",
+				"giftType"
+			],
+			[
+				"preg",
+				"preg_replace"
+			],
+			[
+				"always",
+				"always_visible"
+			],
+			[
+				"shout",
+				"shout_body"
+			],
+			[
+				"alway",
+				"always_visible"
+			],
+			[
+				"member",
+				"member_groups"
+			],
+			[
+				"alwa",
+				"always_visible"
+			],
+			[
+				"ISO",
+				"ISO-8859-1"
+			],
+			[
+				"htm",
+				"htmlspecialchars"
+			],
+			[
+				"torr",
+				"torrents"
+			],
+			[
+				"board",
+				"boardSelect"
+			],
+			[
+				"db_fet",
+				"db_fetch_row"
+			],
+			[
+				"last",
+				"last_active"
+			],
+			[
+				"penal",
+				"penaltyListV4"
+			],
+			[
+				"try",
+				"try	Try/Except"
+			],
+			[
+				"list",
+				"listOption"
+			],
+			[
+				"yfft",
+				"yfft_peak"
+			],
+			[
+				"p0",
+				"p0_sine"
+			],
+			[
+				"moder",
+				"moderate_board"
+			],
+			[
+				"sub",
+				"sub_template"
+			],
+			[
+				"user",
+				"user_info"
+			],
+			[
+				"moderate",
+				"moderate_forum"
+			],
+			[
+				"smc",
+				"smcFunc"
+			],
+			[
+				"torrent_",
+				"torrent_request_seeder"
+			],
+			[
+				"num",
+				"num_files"
+			],
+			[
+				"notag",
+				"notag_only"
+			],
+			[
+				"item",
+				"items_per_page"
+			],
+			[
+				"topics",
+				"topics_notag"
+			],
+			[
+				"array_in",
+				"array_int"
+			],
+			[
+				"mod",
+				"modSettings"
+			],
+			[
+				"fatal",
+				"fatal_lang_error"
+			],
+			[
+				"link",
+				"linktree"
+			],
+			[
+				"scrup",
+				"scripturl"
+			],
+			[
+				"page",
+				"page_title"
+			],
+			[
+				"poster",
+				"poster_time"
+			],
+			[
+				"db_",
+				"db_prefix"
+			],
+			[
+				"reques",
+				"request_seeder"
+			],
+			[
+				"defau",
+				"default_images_url"
+			],
+			[
+				"getTorrent",
+				"getTorrentInfo"
+			],
+			[
+				"Subs-",
+				"Subs-Torrent"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"require",
+				"require_once"
+			],
+			[
+				"con",
+				"context"
+			],
+			[
+				"crea",
+				"create_medal"
+			],
+			[
+				"un",
+				"uniqueId"
+			],
+			[
+				"script",
+				"scripturl"
+			],
+			[
+				"co",
+				"context"
+			],
+			[
+				"ht",
+				"htmlspecialchars"
+			],
+			[
+				"allowed",
+				"allowedTo"
+			],
+			[
+				"check",
+				"checkNewPM"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"if",
+				"if	if …"
+			],
+			[
+				"xm",
+				"XMLHttpRequest"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"dat",
+				"dataMap"
+			],
+			[
+				"proxy",
+				"proxy_list"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "views/footer.ejs",
+			"settings":
+			{
+				"buffer_size": 16,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "views/addGame.ejs",
+			"settings":
+			{
+				"buffer_size": 5392,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "routes/character.js",
+			"settings":
+			{
+				"buffer_size": 2608,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "routes/data.js",
+			"settings":
+			{
+				"buffer_size": 239,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "test.js",
+			"settings":
+			{
+				"buffer_size": 1078,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 1864,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/Documents/python/InfoRecorderOnline/basetypes.py",
+			"settings":
+			{
+				"buffer_size": 2267,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/Documents/python/InfoRecorderOnline/Add.py",
+			"settings":
+			{
+				"buffer_size": 5365,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 383.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 120.0,
+		"history":
+		[
+			"eval('5+4')",
+			"9*54.0/10",
+			"9*54/10",
+			"ord('7')",
+			"ord(7)",
+			"a[0]+=1",
+			"a={}",
+			"json.loads('{}')",
+			"dir(json)",
+			"import json",
+			"from urllib2 import urlopen,Request",
+			"regexImageURL.sub('_','http://pt.vm.fudan.edu.cn/MGalleryItem.php?id=4255')",
+			"regexImageURL = re.compile(r'[(http://)|/|?|\\\\]')",
+			"regexImageURL.sub('_','http://pt.vm.fudan.edu.cn/MGalleryItem.php?id=4255')",
+			"regexImageURL = re.compile(r'[http://|/|?|\\\\]')",
+			"import re",
+			"datetime.datetime.now().utcoffset()==None",
+			"datetime.datetime.now().utcoffset()",
+			"datetime.datetime.now()",
+			"datetime.datetime.now",
+			"t-datetime.date(2013,10,21)",
+			"t-datetime.date(2009,12,12)",
+			"t-datetime.date(2009-12-12)",
+			"t",
+			"t = datetime.date.today()",
+			"import datetime",
+			"'  \\raa    a   \\n'.strip()",
+			"'  \\raaa   \\n'.strip()",
+			"'  aaa   \\n'.strip()",
+			"'  aaa   '.strip()",
+			"'aaa'.strip()",
+			"'aaa'.trim()",
+			"trim",
+			"a[4]",
+			"a[-1]",
+			"a=[1,2,3]",
+			"b.groupdict()",
+			"b.groupdict",
+			"dir(b)",
+			"b.groups()",
+			"b=a.search('Angle=50_FieldX_f=1.200000e+010_DMA=2.000000e-012-Oxs_TimeDriver-Magnetization-00-0000422')",
+			"a=re.compile(r'Angle=(?P<angle>\\d+)_FieldX_f=(?P<freq>[\\d\\+e\\-\\.]+)_(?P<dmtype>\\w+)=(?P<dm>[\\d\\+e\\-\\.]+)-')",
+			"b.groups()",
+			"b",
+			"b=a.search('Angle=50_FieldX_f=1.200000e+010_DMA=2.000000e-012-Oxs_TimeDriver-Magnetization-00-0000422')",
+			"a.search('Angle=50_FieldX_f=1.200000e+010_DMA=2.000000e-012-Oxs_TimeDriver-Magnetization-00-0000422')",
+			"a",
+			"a=re.compile(r'Angle=(?P<angle>\\d+)_FieldX_f=(?P<freq>[\\d\\+e\\-\\.]+)_(?P<dmtype>\\w+)=(?P<dm>[\\d\\+e\\-\\.]+)')",
+			"re.compile(r'Angle=(?P<angle>\\d+)_FieldX_f=(?P<freq>[\\d\\+e\\-\\.]+)_(?P<dmtype>\\w+)=(?P<dm>[\\d\\+e\\-\\.]+)')",
+			"import re",
+			"rand()",
+			"hash([1,2])",
+			"hash(2)",
+			"hash('s')",
+			"hash('sdfaf')",
+			"hash(1)",
+			"time.time()",
+			"time.now()",
+			"import time",
+			"dir({})",
+			"'eHhiMTIzKigp'.decode('base64')",
+			"print(u\"\\u6b27\\u7f8e\\u7535\\u5f71,\\u4e9a\\u6d32\\u7535\\u5f71,\\u6b27\\u7f8e\\u7535\\u89c6,\\u56fd\\u4ea7\\u7535\\u89c6,\\u4f53\\u80b2\\u8282\\u76ee,\\u7eaa\\u5f55\\u7247\")",
+			"print(u\"\\u4e2d\\u56fd\\u7535\\u5f71\")",
+			"prod",
+			"sum",
+			"type('ddd')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/Documents/Dev/playground-nodejs/vndb/public/game.json",
+		"/E/Documents/Dev/playground-nodejs/vndb/chara.txt",
+		"/E/Documents/Dev/playground-nodejs/vndb/test2.jpg",
+		"/E/Documents/Dev/playground-nodejs/vndb/aaaa.jpg",
+		"/E/Documents/Dev/playground-nodejs/vndb/test.jpg",
+		"/E/Documents/Dev/playground-nodejs/vndb/package.json",
+		"/E/Documents/Dev/playground-nodejs/vndb/routes/data.js",
+		"/E/Documents/Dev/playground-nodejs/vndb/data.jpg",
+		"/E/Documents/Dev/playground-nodejs/vndb/routes/suggest.js",
+		"/E/Documents/Dev/playground-nodejs/vndb/models/error.js",
+		"/E/Documents/Dev/playground-nodejs/vndb/models/seiyuu.js",
+		"/E/Documents/Dev/playground-nodejs/vndb/models/game.js",
+		"/E/Documents/Dev/playground-nodejs/vndb/models/blob.js",
+		"/E/Documents/Dev/playground-nodejs/vndb/models/character.js",
+		"/E/Documents/Dev/playground-nodejs/vndb/app.js",
+		"/E/Documents/Dev/playground-nodejs/vndb/routes/game.js",
+		"/E/Documents/python/InfoRecorderOnline/template/upload.html",
+		"/E/Documents/Dev/playground-nodejs/vndb/views/addGame.ejs",
+		"/E/Documents/Dev/playground-nodejs/vndb/routes/character.js",
+		"/C/Web/Apache2.2/htdocs/Sources/Subs-Announce.php",
+		"/C/Web/Apache2.2/htdocs/Sources/Subs-Tracker.php",
+		"/E/Documents/Dev/playground-nodejs/vndb/views/addCharacter.ejs",
+		"/E/Documents/Dev/playground-nodejs/vndb/chara.json",
+		"/E/Documents/Dev/playground-nodejs/vndb/views/index.ejs",
+		"/E/Documents/Dev/playground-nodejs/vndb/settings.js",
+		"/E/Documents/Dev/playground-nodejs/vndb/seiyuu.json",
+		"/E/Documents/Dev/playground-nodejs/vndb/routes/seiyuu.js",
+		"/E/Documents/Dev/playground-nodejs/vndb/routes/company.js",
+		"/E/Documents/Dev/playground-nodejs/vndb/game.json",
+		"/E/Documents/Dev/playground-nodejs/vndb/views/addSeiyuu.ejs",
+		"/E/Documents/Dev/playground-nodejs/vndb/views/addCompany.ejs",
+		"/E/Documents/python/InfoRecorderOnline/template/add.html",
+		"/E/Documents/python/InfoRecorderOnline/Add.py",
+		"/E/Documents/Dev/playground-nodejs/vndb/models/company.js",
+		"/E/Documents/Dev/playground-nodejs/vndb/models/db.js",
+		"/E/Documents/Dev/playground-nodejs/vndb/views/AddGame.ejs",
+		"/E/Documents/python/InfoRecorderOnline/Index.py",
+		"/E/Documents/Dev/playground-nodejs/vndb/views/header.ejs",
+		"/E/Documents/Dev/playground-nodejs/vndb/views/frame.ejs",
+		"/C/Web/Apache2.2/htdocs/Themes/default/TrackerProfile.template.php",
+		"/C/Web/Apache2.2/htdocs/Sources/Medal/MedalCriteria.php",
+		"/C/Web/Apache2.2/htdocs/Sources/Subs-Post.php",
+		"/C/Web/Apache2.2/htdocs/Sources/Subs-BoardIndex.php",
+		"/C/Web/Apache2.2/htdocs/Sources/Subs-Boards.php",
+		"/C/Web/Apache2.2/htdocs/Sources/BoardIndex.php",
+		"/C/Web/Apache2.2/htdocs/Themes/default/BoardIndex.template.php",
+		"/E/Documents/Dev/PostGenerator/manifest.json",
+		"/C/Web/Apache2.2/htdocs/Sources/Load.php",
+		"/C/Web/Apache2.2/htdocs/Sources/shop/items/RandomMoneyPlus.php",
+		"/C/Web/Apache2.2/htdocs/Sources/API.php",
+		"/C/Web/Apache2.2/logs/error.log",
+		"/C/Web/Apache2.2/htdocs/Sources/Subs.php",
+		"/C/Web/Apache2.2/htdocs/Sources/TrackerAdmin.php",
+		"/E/Documents/python/PTSpider/ptSpider_Shoutbox.py",
+		"/E/Documents/python/PTSpider/ptSpider_Stats.py",
+		"/C/Users/KeMeGe/Desktop/Else/OMDB/IMDB.user.js",
+		"/C/Users/KeMeGe/AppData/Roaming/Mozilla/Firefox/Profiles/1w5sv8n8.default/gm_scripts/FDUPT_Send_PTP/sendptp.user.js",
+		"/E/Documents/Dev/PostGenerator/IMDB.user.js",
+		"/E/Documents/Dev/pyLogTime/ProcessW32.py",
+		"/E/Documents/Dev/pyLogTime/Logger.py",
+		"/E/Documents/Dev/pyLogTime/Subs.py",
+		"/E/Documents/Dev/playground-nodejs/vndb/routes/index.js",
+		"/E/Documents/Dev/playground-nodejs/vndb/routes/games.js",
+		"/C/Python27/Lib/site-packages/comtypes-1.0.0-py2.7.egg/comtypes/client/dynamic.py",
+		"/E/Documents/Dev/README.md",
+		"/C/Users/KeMeGe/Desktop/testtracker.py",
+		"/C/Users/KeMeGe/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/E/Documents/Dev/playground-nodejs/vndb/routes/user.js",
+		"/E/Documents/Dev/playground-nodejs/demo/routes/user.js",
+		"/E/Documents/Dev/playground-nodejs/demo/app.js",
+		"/E/Documents/Dev/playground-nodejs/demo/views/layout.jade",
+		"/E/Documents/Dev/playground-nodejs/demo/views/index.jade",
+		"/E/Documents/Dev/playground-nodejs/demo/routes/index.js",
+		"/E/Documents/Dev/playground-nodejs/test.js",
+		"/E/Documents/Dev/playground-nodejs/nodejs-test/package.json",
+		"/E/Documents/Dev/playground-nodejs/package",
+		"/C/Web/Apache2.2/htdocs/Sources/Profile-Tracker.php",
+		"/C/Users/KeMeGe/Desktop/Else/OMDB/OMDB.user.js",
+		"/C/Users/KeMeGe/Desktop/Else/OMDB/OMDB.js",
+		"/C/Users/KeMeGe/Desktop/testproxy.py",
+		"/E/Documents/PT Data/访问日志分析/白名单数据/2014-03-27.txt",
+		"/E/Documents/PT Data/访问日志分析/白名单数据/2014-03-24.txt",
+		"/E/Documents/PT Data/访问日志分析/白名单数据/2014-03-26.txt",
+		"/E/Documents/PT Data/访问日志分析/白名单数据/2014-03-25.txt",
+		"/E/Documents/PT Data/访问日志分析/白名单数据/2014-03-23.txt",
+		"/E/Documents/PT Data/访问日志分析/白名单数据/2014-03-21.txt",
+		"/E/Documents/PT Data/访问日志分析/白名单数据/2014-03-22.txt",
+		"/E/Documents/PT Data/访问日志分析/白名单数据/2014-03-20.txt",
+		"/E/Documents/PT Data/访问日志分析/白名单数据/2014-03-19.txt",
+		"/E/Documents/PT Data/访问日志分析/白名单数据/2014-03-18.txt",
+		"/E/Documents/PT Data/访问日志分析/白名单数据/2014-03-17.txt",
+		"/E/Documents/PT Data/访问日志分析/白名单数据/2014-03-16.txt",
+		"/E/Documents/PT Data/访问日志分析/白名单数据/2014-03-15.txt",
+		"/E/Documents/PT Data/访问日志分析/白名单数据/2014-03-14.txt",
+		"/E/Documents/PT Data/访问日志分析/白名单数据/2014-03-12.txt",
+		"/E/Documents/PT Data/访问日志分析/白名单数据/2014-03-13.txt",
+		"/E/Documents/PT Data/访问日志分析/白名单数据/2014-03-11.txt",
+		"/E/Documents/PT Data/访问日志分析/白名单数据/2014-03-10.txt",
+		"/E/Documents/PT Data/访问日志分析/白名单数据/2014-03-08.txt",
+		"/E/Documents/PT Data/访问日志分析/白名单数据/2014-03-09.txt",
+		"/E/Documents/PT Data/访问日志分析/白名单数据/2014-03-07.txt",
+		"/E/Documents/PT Data/访问日志分析/白名单数据/2014-03-06.txt",
+		"/E/Documents/PT Data/访问日志分析/白名单数据/2014-03-05.txt",
+		"/E/Documents/PT Data/访问日志分析/白名单数据/2014-03-03.txt",
+		"/E/Documents/PT Data/访问日志分析/白名单数据/2014-03-04.txt",
+		"/E/Documents/PT Data/访问日志分析/白名单数据/2014-03-02.txt",
+		"/E/Documents/PT Data/访问日志分析/白名单数据/2014-03-01.txt",
+		"/E/Documents/PT Data/访问日志分析/白名单数据/2014-02-28.txt",
+		"/E/Documents/PT Data/访问日志分析/白名单数据/2014-02-27.txt",
+		"/E/Documents/PT Data/访问日志分析/白名单数据/2014-02-26.txt",
+		"/E/Documents/PT Data/访问日志分析/白名单数据/2014-02-25.txt",
+		"/E/Documents/PT Data/访问日志分析/白名单数据/2014-02-24.txt",
+		"/E/Documents/PT Data/访问日志分析/白名单数据/2014-02-23.txt",
+		"/E/Documents/python/InfoRecorderOnline/static/script.js",
+		"/E/Documents/cure/.openshift/cron/README.cron",
+		"/D/Program Files/sg-1997.py",
+		"/C/Web/Apache2.2/htdocs/tesrrt.php",
+		"/E/Documents/cure/.openshift/cron/weekly/chronograph",
+		"/E/Documents/cure/setup.py",
+		"/E/Documents/cure/wsgi/myapp.py",
+		"/E/Documents/cure/wsgi/application",
+		"/E/Documents/cure/.openshift/cron/weekly/jobs.deny",
+		"/E/Documents/cure/.openshift/cron/weekly/jobs.allow",
+		"/E/Documents/cure/.openshift/cron/weekly/chrono.dat",
+		"/E/Documents/cure/.openshift/cron/weekly/README",
+		"/E/Documents/cure/Main.py",
+		"/E/Documents/cure/templates/Index.html",
+		"/E/Documents/课程/铁磁学/作业/calculateIsingCurie.cpp"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"chara",
+			"ff d8",
+			"ffd8",
+			"1haCDzcPEHnsEODWKzKTuSqEDtDyuppoHMCsuBPb2ZOjelFKT2zkfrYe9SPyADnTnwKNIx1t4UbtkKBvwU_Si3rVmw",
+			"归海枫",
+			"オヤジ",
+			"ぬいぐるみ",
+			"er ",
+			"seiyuu",
+			"companies",
+			"name",
+			"excep",
+			"console",
+			"itemprop=\"name\"",
+			"\"genre\"",
+			"itemprop=",
+			"build",
+			"Expres",
+			"temp",
+			" / ",
+			"parseDouban",
+			"imdbID",
+			"\"",
+			"[/td]",
+			"[td]",
+			"[tr]",
+			">",
+			"<",
+			"\\t",
+			"resu",
+			"z",
+			"unread_messages",
+			"pm",
+			"[/t]",
+			"[/size]",
+			"[size=-1]",
+			"[/color]",
+			"[color=#ffffff]",
+			"topic",
+			"2,",
+			"_2",
+			"[156]",
+			"settimeout",
+			";",
+			"\",\"",
+			"latest_post",
+			"recen",
+			"alwa",
+			"imdb",
+			"show",
+			"showu",
+			"</?tr",
+			"<tr",
+			"/tr",
+			"table",
+			"weight",
+			"$(this",
+			"server_address",
+			"proxy_host",
+			"print",
+			"128354",
+			"129000",
+			"\\t",
+			"\\n",
+			"137130",
+			"\\n",
+			"\\t",
+			"\"]",
+			"[\"",
+			"\",\"",
+			"\\n",
+			"^",
+			"\\n",
+			"	",
+			"addsub",
+			"penalt",
+			"nav_next_page",
+			"onke",
+			"&#171;",
+			"$txt['nav_prev_page'] = 'Previous';\n$txt['nav_next_page'] = 'Next';",
+			"constructPageIndex",
+			"page_index",
+			"Subs-Torrent",
+			"main.",
+			"secretStr",
+			",",
+			"dlto",
+			"ipv4",
+			"global",
+			",",
+			"$boards,",
+			"$boards",
+			"Y'",
+			"cache",
+			"re_sh",
+			"#38",
+			"38",
+			"sendXMLDocument",
+			"Fire",
+			"aeva",
+			"permis",
+			"tracker",
+			"aeva",
+			"own",
+			"topic",
+			"gone",
+			"last_",
+			"wanna",
+			"allo",
+			"wanna",
+			"board",
+			"in-pl",
+			"quantum wel",
+			" +",
+			"] \\",
+			"[list ",
+			"$context['linked_torrents'] = array();",
+			"subsidy",
+			"addPoint|cash",
+			"addPoint",
+			"cash",
+			"fft",
+			"actio",
+			"该外部账号",
+			"该外部账号已经被绑定至其他账号",
+			"身份信息已被使用",
+			"call",
+			"settings"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"character",
+			"/",
+			"'",
+			"[/center][/td]",
+			"[td][center]",
+			"[tr][td]",
+			"]",
+			"[",
+			",",
+			"",
+			";\n",
+			"\",\n\"",
+			"','",
+			"'],\\n['",
+			"'],\\n",
+			"','",
+			"']",
+			"['",
+			"','",
+			"\"],\n[\"",
+			"\"],\n",
+			"\"],$$\n",
+			"\"],$$",
+			"\"],$1",
+			"\"],",
+			"\",\"",
+			"\",\"\n",
+			",\n",
+			"，",
+			"\\t",
+			"",
+			"$&",
+			"$1",
+			"$&",
+			"$&\\.png\"\\n",
+			"ren \"$&\" \"$&\"",
+			"\"$&\" \"$&\"",
+			"$& $&",
+			"^$ ^$",
+			"$^ $^",
+			"\n{\"boards_name",
+			") {\n",
+			";\n",
+			"/",
+			"td",
+			"tr",
+			"tx",
+			"$lower, $upper);",
+			"$memID, $lower, $upper, $extra",
+			"错误"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "views/footer.ejs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16,
+								16
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "views/addGame.ejs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5392,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4762,
+								4762
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1755.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "routes/character.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2608,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1013,
+								1013
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 492.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "routes/data.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 239,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								218,
+								218
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "test.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1078,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								900,
+								900
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 315.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1864,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								211,
+								211
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/E/Documents/python/InfoRecorderOnline/basetypes.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2267,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1144,
+								1144
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 315.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/E/Documents/python/InfoRecorderOnline/Add.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5365,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 798.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 94.0
+	},
+	"project": "vndb.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

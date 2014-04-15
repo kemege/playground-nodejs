@@ -1,0 +1,157 @@
+<%- include header %>
+<script type="text/javascript" src="../../javascripts/selectize.min.js"></script>
+<link rel="stylesheet" type="text/css" href="../../stylesheets/selectize.bootstrap3.css">
+<form method="post" class="form-horizontal" role="form">
+	<div class="form-group">
+		<label for="title" class="col-sm-2 control-label">标题</label>
+		<div class="col-sm-10">
+			<input type="text" name="title" id="title" class="form-control" placeholder="标题"/>
+		</div>
+	</div>
+	<div class="form-group">
+		<label for="company" class="col-sm-2 control-label">公司</label>
+		<div class="col-sm-10">
+			<select name="company" id="company" class="form-control">
+				<% for(var i = 0; i < companyList.length; i++) { %>
+					<option value="<%= companyList[i].name %>"><%= companyList[i].name %></option>
+				<% } %>
+			</select>
+		</div>
+	</div>
+	<div class="form-group">
+		<label for="releaseDate" class="col-sm-2 control-label">发售日期</label>
+		<div class="col-sm-10">
+			<input type="text" name="releaseDate" id="releaseDate" class="form-control" placeholder="发售日期"/>
+		</div>
+	</div>
+	<div class="form-group">
+		<label for="startDate" class="col-sm-2 control-label">开始日期</label>
+		<div class="col-sm-10">
+			<input type="date" name="startDate" id="startDate" class="form-control" placeholder="开始日期"/>
+		</div>
+	</div>
+	<div class="form-group">
+		<label for="finishDate" class="col-sm-2 control-label">结束日期</label>
+		<div class="col-sm-10">
+			<input type="text" name="finishDate" id="finishDate" class="form-control" placeholder="结束日期"/>
+		</div>
+	</div>
+	<div class="form-group">
+		<label for="icon" class="col-sm-2 control-label">图标</label>
+		<div class="col-sm-10">
+			<input type="file" name="icon" id="icon" placeholder="图标"/>
+		</div>
+	</div>
+	<div class="form-group">
+		<label for="poster" class="col-sm-2 control-label">海报</label>
+		<div class="col-sm-10">
+			<input type="file" name="poster" id="poster" placeholder="海报"/>
+		</div>
+	</div>
+	<div class="form-group">
+		<label for="characters" class="col-sm-2 control-label">角色列表</label>
+		<div class="col-sm-10">
+			<input type="text" name="characters" id="characters" class="form-control" placeholder="角色列表"/>
+			<div><ul id="characterSuggest" class="dropdown-menu" role="menu" aria-labelledby="dropdownSuggest"></ul></div>
+			<div id="characterList"></div>
+		</div>
+	</div>
+	<div class="form-group">
+		<label for="vadb" class="col-sm-2 control-label">VADB编号</label>
+		<div class="col-sm-10">
+			<input type="text" name="vadb" id="vadb" class="form-control" placeholder="VADB编号"/>
+		</div>
+	</div>
+	<div class="form-group">
+		<label for="vndb" class="col-sm-2 control-label">VNDB编号</label>
+		<div class="col-sm-10">
+			<input type="text" name="vndb" id="vndb" class="form-control" placeholder="VNDB编号"/>
+		</div>
+	</div>
+	<div class="form-group">
+		<label for="egs" class="col-sm-2 control-label">批评空间编号</label>
+		<div class="col-sm-10">
+			<input type="text" name="egs" id="egs" class="form-control" placeholder="批评空间编号"/>
+		</div>
+	</div>
+	<div class="form-group">
+		<label for="genre" class="col-sm-2 control-label">类型</label>
+		<div class="col-sm-10">
+			<input type="text" name="genre" id="genre" class="form-control" placeholder="类型"/>
+		</div>
+	</div>
+	<div class="form-group">
+		<label for="playingTime" class="col-sm-2 control-label">总计时间</label>
+		<div class="col-sm-10">
+			<input type="text" name="playingTime" id="playingTime" class="form-control" placeholder="总计时间"/>
+		</div>
+	</div>
+	<div class="form-group">
+		<label for="attachments" class="col-sm-2 control-label">附件</label>
+		<div class="col-sm-10">
+			<input type="file" name="attachments" id="attachments" placeholder="附件"/>
+		</div>
+	</div>
+	<div class="form-group">
+		<label for="memo" class="col-sm-2 control-label">备注</label>
+		<div class="col-sm-10">
+			<input type="text" name="memo" id="memo" class="form-control" placeholder="备注"/>
+		</div>
+	</div>
+	<div class="form-group">
+		<label for="hidden" class="col-sm-2 control-label">隐藏</label>
+		<div class="col-sm-10">
+			<input type="checkbox" name="hidden" id="hidden" class="form-control" placeholder="隐藏"/>
+		</div>
+	</div>
+	<button type="submit" class="btn btn-primary">提交</button>
+</form>
+<script type="text/javascript">
+	$('#characters').selectize({
+		delimiter: ',',
+		persist: false,
+		maxItems: null,
+		valueField: 'id',
+		labelField: 'name',
+		searchField: 'name',
+		create: false,
+		render: {
+			option: function (item, escape) {
+				return '<div class="media">'+
+					'<div class="pull-left"><img src="../../data?key=' + item.image + '" style="width:50px;height:50px;" /></div>' + 
+					'<div class="media-body"><h4 class="media-heading">' + escape(item.name) + '</h4>' + 
+					'<h4 class="media-heading">声优： ' + escape(item.seiyuu) + '</h4>' +
+					'</div></div>'
+					;
+			},
+			item: function (item, escape) {
+				var label = item.name;
+				return '<div>' +
+					'<span class="caption">' + escape(label) + '</span>' +
+				'</div>';
+			}
+		},
+		options: [],
+		load: function (query, callback) {
+			if (!query.length) {
+				return callback();
+			};
+			$.ajax({
+				url: '../../character/suggest?q=' + encodeURIComponent(query),
+				type: 'GET',
+				dataType: 'json',
+				error: function() {
+					callback();
+				},
+				success: function (res) {
+					console.log(res.list);
+					callback(res.list);
+				}
+			});
+		},
+		onLoad: function (data) {
+			console.log(data);
+		}
+	});
+</script>
+<%- include footer %>
